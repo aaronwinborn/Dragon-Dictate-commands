@@ -1,0 +1,10 @@
+Here is an export of all of my current Firefox commands.
+
+close tab: this closes the current tab
+go back: this goes back one page
+go forward: this goes forward one page
+mouseless browsing: this toggles the mouseless browsing plug-in, available at https://addons.mozilla.org/en-US/firefox/addon/mouseless-browsing/
+new tab: this opens a new tab
+refresh: this refreshes the current page
+inspect element: this opens the inspector for firebug, available at http://getfirebug.com/
+show console: this opens the console in firebug
